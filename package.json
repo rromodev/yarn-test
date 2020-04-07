@@ -4,5 +4,8 @@
   "description": "test del manejador de paquetes yarn",
   "main": "index.js",
   "author": "rromomx",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.11.1"
+  }
 }
