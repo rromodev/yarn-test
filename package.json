@@ -1,0 +1,8 @@
+{
+  "name": "yarn-init-test",
+  "version": "1.0.0",
+  "description": "test del manejador de paquetes yarn",
+  "main": "index.js",
+  "author": "rromomx",
+  "license": "MIT"
+}
